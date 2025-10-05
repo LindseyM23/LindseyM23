@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 
 💫 About Me<br><br>Hey there 👋<br>I’m Lindsey Monyepao, A 2X AWS Certified Software Developer who loves bringing ideas to life through clean code, purposeful design, and smart systems.<br><br>💻 I build solutions that bridge the gap between technology and real-world impact, with a focus on scalable architecture, user experience, and automation.<br><br>🚀 I enjoy turning complex problems into elegant, intuitive applications — the kind that make people say, “Oh, that’s clever.”<br><br>🧠 Currently deepening my craft in:<br><br>Modern front-end frameworks (Angular, React)<br><br>Cloud architecture & DevOps workflows<br><br>AI-powered automation & data-driven development<br><br>⚡ Outside of coding, I’m passionate about innovation, leadership, and creating things that make a difference — whether in business, tech, or everyday life.
 
 
